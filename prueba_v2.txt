@@ -1,1 +1,3 @@
-este es un segundo archivo para probar git
+este es un segundo archivo para probar "le agrego" git
+
+segundo cambio a este nuevo archivo 
